@@ -1,0 +1,6 @@
+.border {
+    border: 1px solid var(--secondColor);
+}
+.background {
+    background-color: var(--bgColor);
+}
